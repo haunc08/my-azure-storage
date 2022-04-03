@@ -5,6 +5,9 @@ An overly simplified API to work with Azure Storage Blob.
 - Express
 - Azure Storage Blob
 
+## Deployed link
+https://guarded-dawn-38804.herokuapp.com/
+
 ## Run server on local
 ### Install dependencies
 ```
