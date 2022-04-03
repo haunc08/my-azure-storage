@@ -15,14 +15,9 @@ yarn
 SECRET_KEYS
 AZURE_STORAGE_CONNECTION_STRING
 ```
-Example:
-```
-SECRET_KEYS=EXAMPLE1_EXAMPLE2
-AZURE_STORAGE_CONNECTION_STRING=DefaultEndpointsProtocol=https;AccountName=example;AccountKey=example;EndpointSuffix=example
-```
 ### Run server
 ```
-yarn start
+yarn start dev
 ```
 ## Usage
 ### Upload file
