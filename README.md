@@ -12,6 +12,7 @@ yarn
 ```
 #### Create `.env` file in the root folder and set these variables
 ```
+PORT
 SECRET_KEYS
 AZURE_STORAGE_CONNECTION_STRING
 ```
